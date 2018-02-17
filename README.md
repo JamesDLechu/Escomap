@@ -1,2 +1,2 @@
 # Escomap
-A school's app
+A school's app, simple test
